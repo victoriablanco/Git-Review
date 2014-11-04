@@ -15,7 +15,6 @@
 
 #### Get started!
 
-
 * Display your working directory
   * < your answer here >
 
