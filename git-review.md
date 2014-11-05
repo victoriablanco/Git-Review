@@ -55,7 +55,7 @@
   * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git checkout <enter SHA1 number>
 
 #### You should understand the following:
 
