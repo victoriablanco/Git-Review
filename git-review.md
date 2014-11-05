@@ -46,7 +46,7 @@
   * git remote set-url
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * git clone
 
 * Show the history of a git repository
   * < your answer here >
